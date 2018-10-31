@@ -15,3 +15,5 @@ October 30,2018
    Im posting this on Halloween day so HAPPY HALLOWEEN!
    
    I will post my Daily Halloween Blog tomorrow Novemeber 1st
+
+Daily-Mari <3
