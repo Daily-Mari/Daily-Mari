@@ -16,7 +16,7 @@ url: "https://daily-mari.github.io/Daily-Mari/" # the base hostname & protocol f
 # github_username:  @daily-mari
 
 # Build settings
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
